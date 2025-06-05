@@ -18,7 +18,7 @@ Contains detailed information about Airbnb properties, including host details, l
 Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
-- ## 🛠️ Tools & Technologies Used :
+ ## 🛠️ Tools & Technologies Used :
    ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
 
