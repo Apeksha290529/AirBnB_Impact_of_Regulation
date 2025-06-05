@@ -10,7 +10,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 ## 🎯 Project Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
 
-## **🔍 Dataset :
+## 🔍** Dataset :
 The dataset includes the following files:
 - listings.csv
 Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
@@ -19,16 +19,16 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 - ## **🛠️ Tools & Technologies Used** :
-   ![image](logo-mysql-170x115.png)
+   ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
 
-## Insights :
+## 📊 **Insights :
 1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
 2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
 3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
 4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
 
-## Recommendation :
+## 🚀**Recommendation :
 1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
 2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
 3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
