@@ -7,16 +7,20 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 <img src="how-to-start-an-airbnb-rental-management-company-magentodownload.jpg" width=1000>
 
-## Overview :
+## 🎯 Project Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
 
-## Dataset :
+## **🔍 Dataset :
 The dataset includes the following files:
 - listings.csv
 Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
 - reviews.csv
 Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+
+- ## **🛠️ Tools & Technologies Used** :
+   ![image](logo-mysql-170x115.png)
+
 
 ## Insights :
 1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
