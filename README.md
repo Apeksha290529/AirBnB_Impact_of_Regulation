@@ -19,7 +19,7 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
  ## 🛠️ Tools & Technologies Used :
-   ![image](desktop-wallpaper-6-python-programming-python-language.jpg" width=360*371)
+   ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
 
 ## 📊Insights :
