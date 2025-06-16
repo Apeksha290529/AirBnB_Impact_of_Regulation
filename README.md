@@ -22,7 +22,7 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
    ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
 
-## 📊Insights :
+## Insights📊:
 
 📈 The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
 
@@ -32,7 +32,7 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 
 🔄 Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
 
-## 🚀Recommendation :
+## Recommendation🚀 :
 
 📉 Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
 
