@@ -9,6 +9,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## 🎯 Project Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+---
 
 ## 🔍Dataset :
 The dataset includes the following files:
@@ -17,11 +18,12 @@ Contains detailed information about Airbnb properties, including host details, l
 - reviews.csv
 Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
 - Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+---
 
  ## 🛠️ Tools & Technologies Used :
    ![image](desktop-wallpaper-6-python-programming-python-language.jpg)
 
-
+---
 ## Insights📊:
 
 📈 The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
@@ -31,7 +33,7 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 ⚠ After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
 
 🔄 Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
-
+---
 ## Recommendation🚀 :
 
 📉 Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
