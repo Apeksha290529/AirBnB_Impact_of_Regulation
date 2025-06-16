@@ -44,6 +44,6 @@ Includes guest reviews for Airbnb properties, covering feedback, review dates, a
 
 📋AirBnB can replicate such regulations at other places.
 
-*🔐They can keep strict rules to onboard and release the hosts.
+🔐They can keep strict rules to onboard and release the hosts.
 
-*🌐They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+🌐They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
